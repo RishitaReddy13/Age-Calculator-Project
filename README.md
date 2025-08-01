@@ -9,7 +9,7 @@ Built using **HTML**, **CSS**, **JavaScript**, and the **Luxon.js** library for 
 ## 🚀 Live Demo  
 👉 [Click here to try it!](https://rishitareddy13.github.io/Age-Calculator/)
 
-**Project URL:** file:///Users/rishidharreddygarlapati/age-calculator/index.html
+**Project URL:** https://rishitareddy13.github.io/Age-Calculator/
 
 ---
 
